@@ -44,3 +44,4 @@ PULL_REQUEST_TEMPLATE.md 참고
 - [📌 자바스크립트의 특징](Note/javascript/characteristics.md)
 - [⏱️ 자바스크립트의 비동기 처리 (Asynchronous JavaScript)](Note/javascript/async.md)
 - [📤 자바스크립트의 호이스팅 (Hoisting)](Note/javascript/hoisting.md)
+- [🔗 자바스크립트의 this 바인딩](Note/javascript/this-binding.md)
